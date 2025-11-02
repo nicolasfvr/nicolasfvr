@@ -47,6 +47,7 @@
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"></a>
     <a href="#"><img alt="ZorinOS" src ="https://img.shields.io/badge/ZorinOS-15A6F0.svg?logo=zorin&logoColor=white"></a>
+    <a href="#"><img alt="Proxmox" src ="https://img.shields.io/badge/Proxmox-E57000.svg?logo=proxmox&logoColor=white"></a>
     <a href="#"><img alt="Unraid" src ="https://img.shields.io/badge/Unraid-F15A2C.svg?logo=unraid&logoColor=white"></a>
     <a href="#"><img alt="Windows" src ="https://img.shields.io/badge/Windows-0078D4.svg?"></a>
 </p>
