@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F38F7&center=true&vCenter=true&width=440&height=45&lines=Node.Js+Back-End+developer;Experienced+Game+Server+Making;10%2B+years+of+coding+experience;Always+learning+new+things" />
 </p>
 <h2> About Me</h2>
-<img align="right" width="45%" alt="" src="https://cdn.favre.icu/portrait-nicolas.png" />
+<img align="right" width="40%" alt="" src="https://cdn.favre.icu/portrait-nicolas.png" />
 
   <samp>&gt; Hey There!, I am
     <b>Nicolas Favre</b>
